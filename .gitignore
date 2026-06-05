@@ -1,9 +1,29 @@
+# Python
 __pycache__/
 *.pyc
+
+# Entornos
 .env
+.venv/
+venv/
+
+# Logs
 *.log
+
+# MacOS
 .DS_Store
+
+# Windows
 Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales ERA5
 data/raw/**/*.zip
 data/climate/era5land_eber/*.original_zip
 data/climate/era5land_eber/*.original_gz
