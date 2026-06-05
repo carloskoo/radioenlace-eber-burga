@@ -1,0 +1,1 @@
+Error cnMaestro: 429 Client Error: Too Many Requests for url: https://us-e1-s25-5b66gzivhi.cloud.cambiumnetworks.com/api/v2/devices/BC%3AE6%3A7C%3A21%3AB0%3A80/performance?start_time=2026-05-16T07%3A00%3A00Z&stop_time=2026-05-16T07%3A30%3A00Z

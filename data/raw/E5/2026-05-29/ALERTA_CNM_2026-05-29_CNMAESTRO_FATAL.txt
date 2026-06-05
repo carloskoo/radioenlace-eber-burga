@@ -1,0 +1,1 @@
+Error cnMaestro: HTTPSConnectionPool(host='us-e1-s25-5b66gzivhi.cloud.cambiumnetworks.com', port=443): Max retries exceeded with url: /api/v2/access/token (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000172141FB020>, 'Connection to us-e1-s25-5b66gzivhi.cloud.cambiumnetworks.com timed out. (connect timeout=30)'))

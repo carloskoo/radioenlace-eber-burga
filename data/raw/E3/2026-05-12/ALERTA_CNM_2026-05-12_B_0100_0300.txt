@@ -1,0 +1,4 @@
+VENTANA B_0100_0300 2026-05-12
+Ventana Lima: 2026-05-12 01:00:00-05:00 -> 2026-05-12 03:00:00-05:00
+RESULTADO: Ventana sin filas (0).
+Nota: Esto puede ocurrir si el SM no reporta telemetría en esa franja.

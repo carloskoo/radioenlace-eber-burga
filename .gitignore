@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+*.log
+.DS_Store
+Thumbs.db
+data/raw/**/*.zip
+data/climate/era5land_eber/*.original_zip
+data/climate/era5land_eber/*.original_gz

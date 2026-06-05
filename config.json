@@ -1,0 +1,54 @@
+{
+  "timezone": "America/Lima",
+  "study_period": {
+    "start_lima": "2026-02-19 00:00:00",
+    "end_lima_current": "2026-05-30 18:00:00",
+    "end_lima_final": "2026-06-01 23:00:00"
+  },
+  "scenarios": {
+    "E0": {
+      "frequency_mhz": 5800,
+      "channel_mhz": 20,
+      "source": "local_epmp"
+    },
+    "E1": {
+      "frequency_mhz": 5660,
+      "channel_mhz": 40,
+      "source": "cnmaestro"
+    },
+    "E2": {
+      "frequency_mhz": 5660,
+      "channel_mhz": 80,
+      "source": "cnmaestro"
+    },
+    "E3": {
+      "frequency_mhz": 5730,
+      "channel_mhz": 40,
+      "source": "cnmaestro"
+    },
+    "E4": {
+      "frequency_mhz": 5730,
+      "channel_mhz": 80,
+      "source": "cnmaestro"
+    },
+    "E5": {
+      "frequency_mhz": 5805,
+      "channel_mhz": 40,
+      "source": "cnmaestro"
+    }
+  },
+  "coordinates": {
+    "ap": {
+      "lat": -6.6924,
+      "lon": -78.51418
+    },
+    "sm": {
+      "lat": -6.76387,
+      "lon": -78.60154
+    },
+    "mid": {
+      "lat": -6.728135,
+      "lon": -78.55786
+    }
+  }
+}

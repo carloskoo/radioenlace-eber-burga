@@ -1,0 +1,3 @@
+timestamp;dl_rssi;dl_snr;dl_mcs;dl_throughput;dl_pkts;dl_kbits;ul_rssi;ul_snr;ul_mcs;ul_throughput;ul_pkts;ul_kbits;mode
+2026-06-01T20:00:20-05:00;;;;;;;;;;;;;sm
+2026-06-01T21:00:20-05:00;;;;;;;;;;;;;sm
