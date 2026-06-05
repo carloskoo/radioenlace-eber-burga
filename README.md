@@ -59,3 +59,10 @@ outputs/figures/*.pdf
 ## Nota metodológica
 
 El throughput registrado representa tráfico efectivamente observado durante el monitoreo y no la capacidad máxima teórica del enlace. Para E0, el formato local no contiene throughput comparable con cnMaestro.
+
+## Cómo citar este repositorio
+
+Koo Labrín, C. J. (2026).
+Dataset y scripts reproducibles para el análisis técnico de un radioenlace punto a punto bajo configuraciones espectrales.
+GitHub.
+https://github.com/carloskoo/radioenlace-eber-burga
