@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si utiliza este repositorio, por favor cite este trabajo."
+title: "Dataset y scripts reproducibles para el análisis técnico de un radioenlace punto a punto bajo configuraciones espectrales"
+authors:
+  - family-names: "Koo Labrín"
+    given-names: "Carlos Jesús"
+repository-code: "https://github.com/carloskoo/radioenlace-eber-burga"
+date-released: "2026-06-04"
+version: "1.0.0"
+license: "MIT"
+keywords:
+  - radioenlace
+  - telecomunicaciones
+  - RSSI
+  - SNR
+  - MCS
+  - throughput
+  - ERA5-Land
+  - cnMaestro
